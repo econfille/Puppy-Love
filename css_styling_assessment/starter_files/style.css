@@ -15,15 +15,29 @@ colors:
 
 td {
   border: 1px solid blue;
+  font-family: sans-serif;
+  width: 340px;
+  padding-left: 10px;
+  height: 20px;
+
 }
 
-thead{
+thead {
   background-color: #1fabe5;
+  color: white;
+
 }
-tbody{}
+
+tbody {
+  width: 25px;
+
+}
+
 .main_navigation{
     margin: 15px
+
 }
+
 .main_navigation a{
     padding: 0.5em 2em;
     text-decoration: none;
@@ -34,6 +48,7 @@ tbody{}
     background-color: #ff8523;
     color: white;
     font-family: sans-serif;
+
 }
 
 #site_header{
